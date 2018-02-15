@@ -1,2 +1,2 @@
 # planets
-Class Project
+This is a test repo
